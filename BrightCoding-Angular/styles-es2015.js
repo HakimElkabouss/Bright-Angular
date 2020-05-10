@@ -557,7 +557,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Hakim\Desktop\ProjetsSimplon\Angular\Bright-Angular\src\styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! C:\Users\Hakim\Desktop\ProjetsSimplon\Angular\BrightCoding-Angular\src\styles.css */"./src/styles.css");
 
 
 /***/ })
