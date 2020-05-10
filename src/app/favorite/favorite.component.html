@@ -1,0 +1,8 @@
+<button class="btn" 
+ [ngClass]="{
+     'btn-primary': isSelected,
+     'btn-danger': !isSelected
+ }"
+  (click)="myFavorite()">
+  Click
+</button>
